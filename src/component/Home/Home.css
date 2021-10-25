@@ -1,0 +1,12 @@
+.services-container{
+    display:flex;
+
+}
+.service-container{
+    width:100%;
+    margin-left: 20px;
+    margin-right: 5px;
+    
+    
+
+}

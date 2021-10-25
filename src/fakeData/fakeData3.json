@@ -1,0 +1,12 @@
+[{"id":1,"time":"8:00 AM to 10:PM",  "fee":"$500", "name":"Antonios Charokopos, M.D. ", "title":"Intensive Care (Critical Care), Pulmonology (Lungs)","location":"Sparta, WI ",   "docImg": "https://i.postimg.cc/yx1dtnxv/p1.jpg"},
+{"id":2, "time":"2:00 PM to 10:PM",  "fee":"$1000", "name":"Tal Yalon, M.D.", "title":"Surgery", "location":"Decorah, IA", "docImg": "https://i.postimg.cc/4yWdgthZ/p2.jpg"},
+{"id":3, "time":"4:00 PM to 10:PM",  "fee":"$700", "name":" Yonas Getachew, M.D.", "title":"Gastroenterology & Hepatology (Digestive Care)", "location":" Sparta, WI", "docImg": "https://i.postimg.cc/qBwgyfDY/p3.jpg"},
+{"id":4, "time":"3:00 PM to 10:PM",  "fee":"$500", "name":" Amanda Gingrasso, D.N.P.",  "title":"Gastroenterology & Hepatology (Digestive Care)","location":"Menomonie, WI ", "docImg": "https://i.postimg.cc/65QqhHDQ/p4.jpg"},
+{"id":5, "time":"6:00 PM to 10:PM",  "fee":"$1000", "name":" David Buchner, P.A.-C.", "title":"Orthopedics", "location":"Prairie Du Chien, WI ", "docImg": "https://i.postimg.cc/6p2Qk86J/p5.jpg"},
+{"id":6, "time":"10:00 AM to 12:PM",  "fee":"$700", "name":" Claire Zabransky, M.D.", "title":"Obstetrics & Gynecology (OB-GYN)","location":"Red Wing, MN ", "docImg": "https://i.postimg.cc/RVbFp7BL/p6.jpg"},
+{"id":7, "time":"5:00 PM to 10:PM",  "fee":"$500", "name":"Min Jun (Minjun) Hur, M.D.", "title":"Ophthalmology (Eye Diseases)","location":"Red Wing, MN ", "docImg": "https://i.postimg.cc/59Kggr67/p7.jpg"},
+{"id":8, "time":"2:30 AM to 7:PM",  "fee":"$1000", "name":"Justine Abel, D.O.", "title":"Emergency Medicine","location":"Red Wing, MN ", "docImg": "https://i.postimg.cc/dVr9qtnp/p8.jpg"},
+{"id":9, "time":"3:00 AM to 10:PM",  "fee":"$1000", "name":"Vyoma Acharya, M.D.", "title":"Behavioral Health, Psychiatry & Psychology","location":"Red Wing, MN ", "docImg": "https://i.postimg.cc/HnrQFpVS/p9.jpg"}
+
+
+]

@@ -1,0 +1,10 @@
+[{"id":1, "title":"Intensive Care (Critical Care), Pulmonology (Lungs)","age":"35","serviceName":"Birthing Care","name":"Antonios Charokopos, M.D.","price":"29", "docImg": "https://i.postimg.cc/yx1dtnxv/p1.jpg",   "img": "https://i.postimg.cc/Kz1BVqMx/bc.jpg"},
+{"id":2, "title":"Surgery","age":"24","serviceName":"Cancer Care", "name":"Tal Yalon, M.D.","price":"30","docImg": "https://i.postimg.cc/4yWdgthZ/p2.jpg","img": "https://i.postimg.cc/5ycYrxJS/cancerc.jpg"},
+{"id":3, "title":"Gastroenterology & Hepatology (Digestive Care)","age":"29","serviceName":"Emergencies","name":"Yonas Getachew, M.D.","price":"18","docImg": "https://i.postimg.cc/qBwgyfDY/p3.jpg", "img": "https://i.postimg.cc/FsVdP5B0/emergency.jpg"},
+{"id":4, "title":"Gastroenterology & Hepatology (Digestive Care)","age":"37","serviceName":"Family Medicine","name":"Amanda Gingrasso, D.N.P.","price":"35","docImg": "https://i.postimg.cc/65QqhHDQ/p4.jpg","img": "https://i.postimg.cc/BvXjQ8QC/fm.jpg"},
+{"id":5, "title":"Behavioral Health, Psychiatry & Psychology","age":"33","serviceName":"Heart Care","name":"Vyoma Acharya, M.D.","price":"20","docImg": "https://i.postimg.cc/HnrQFpVS/p9.jpg","img": "https://i.postimg.cc/ZnFRDpVJ/hc.jpg"},
+{"id":6, "title":"Emergency Medicine","age":"32","serviceName":"Orthopedics","name":"Justine Abel, D.O.","price":"45","docImg": "https://i.postimg.cc/dVr9qtnp/p8.jpg","img": "https://i.postimg.cc/FsN1kCHz/ortho.jpg"}
+
+
+
+]
