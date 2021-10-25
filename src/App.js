@@ -22,7 +22,7 @@ import DoctorDetails from './component/DoctorDetail.css/DoctorDetails';
 
 function App() {
   return (
-    <div className="App ">
+   
       <AuthProvider>
         <Router>
           <Header></Header>
@@ -62,7 +62,7 @@ function App() {
           <Footer></Footer>
         </Router>
       </AuthProvider>
-    </div>
+    
   );
 }
 
